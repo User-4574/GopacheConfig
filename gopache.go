@@ -1,4 +1,4 @@
-package gopache
+package github.com/User-4574/GopacheConfig
 
 import (
 	"bufio"
