@@ -1,4 +1,4 @@
-package github.com/User-4574/GopacheConfig
+package gopache_test.go
 
 import (
 	"os"
