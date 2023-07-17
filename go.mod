@@ -1,4 +1,4 @@
-module gopache
+module github.com/User-4574/GopacheConfig
 
 go 1.12
 
